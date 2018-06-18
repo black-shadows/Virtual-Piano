@@ -34,7 +34,9 @@ Pianos are large instruments that cannot be carried everywhere. Even electric pi
 
 We propose a method for identifying a piano keyboard present in the video footage of a standard webcam with the goal of teaching chords, scales and suggested finger positions to a beginner pianist. Our keyboard identification method makes use of binary thresholding, Sobel operators and Hough transforms, as well as proposed algorithms specific to this application, to first find an area resembling a piano keyboard before narrowing the search to detect individual keys. Through the use of our method the keys of a piano keyboard were successfully identified from webcam video footage, with a tolerance to camera movement and occluded keys demonstrated. This result allowed the augmented reality style highlighting of individual keys, and the display of suggested fingering, for various chords and scales.
 
-![Execution](May_Evaluation/Execution.PNG)
+<p align="center">
+  <img src="May_Evaluation/Execution.PNG">
+</p>
 
 
 # Assumptions and Constraints
@@ -49,7 +51,9 @@ We propose a method for identifying a piano keyboard present in the video footag
 
 # Fabrication
 
-![Fabrication](May_Evaluation/Fabrication.png)
+<p align="center">
+  <img src="May_Evaluation/Fabrication.png">
+</p>
 
 
 # Project Outcomes
