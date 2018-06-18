@@ -1,4 +1,4 @@
-# Virtual Paino
+# Virtual Piano
 
 Pianos are large instruments that cannot be carried everywhere. Even electric pianos need to be carried in a large bag and are prone to damage in travelling. So here we propose a portable virtual piano that just uses semi-transparent plastic sheet that can be carried and does not have any electronic components in it. We use a raspberry pi attached to a camera along with the plastic sheet to make a virtual piano. We use image processing to divide the plastic sheet into sections and assign particular tomes to it. We then detect human fingers through the plastic sheet and simulate associate piano tone for each section to play piano tones using a speaker. Thus, we provide a virtual piano which is actually a transparent light weight plastic board that can be carried around roughly.
 
@@ -17,12 +17,17 @@ Pianos are large instruments that cannot be carried everywhere. Even electric pi
 
 # Project Requirements
 
-1. Hardware Specifications
-   Rectifier, Regulator, Power Supply, Speaker, Plastic Sheet, Raspberry Pi, Camera, Partitioned Plastic sheet.
- 
-2. Software Specifications
-        a. Python Compiler
-        b. Programming Language: Python
+### 1. Hardware Specifications
+   * Rectifier
+   * Regulator
+   * Power Supply
+   * Speaker
+   * Raspberry Pi
+   * Camera
+   * Partitioned Plastic sheet
+### 2. Software Specifications
+   * Python Compiler
+   * Programming Language: Python
 
 
 # Project Execution Plan
